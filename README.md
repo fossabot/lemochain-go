@@ -6,6 +6,7 @@
 [![gitter chat](https://img.shields.io/gitter/room/LemoFoundationLtd/lemochain-go.svg?style=flat-square)](https://gitter.im/LemoFoundationLtd/lemochain-go)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub license](https://img.shields.io/badge/license-LGPL3.0-blue.svg?style=flat-square)](https://github.com/LemoFoundationLtd/lemochain-go/blob/master/LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flnkyan%2Flemochain-go.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flnkyan%2Flemochain-go?ref=badge_shield)
 
 LemoChain is a data exchange blockchain, where companies of all sizes can monetize their structured business data and trade within the platform. By strengthening the relevance of the blockchain and daily business, LemoChain will accelerate the integration of blockchain technology into our daily lives.
 The original DPoVP consensus mechanism of LemoChain has the characteristic of high scalability, which solves the problem of the slow response of the existing distributed networks and the difficulties they face in complying with various application scenarios.
@@ -162,3 +163,7 @@ Start mining
 lemo.mine.start()
 ```
 6. You can check or transfer LEMO in your account. More commond is in JS SDK[Documentation](https://github.com/LemoFoundationLtd/lemo-client)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flnkyan%2Flemochain-go.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flnkyan%2Flemochain-go?ref=badge_large)
